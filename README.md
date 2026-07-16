@@ -4,7 +4,7 @@ Process automation and analytics professional focused on enterprise service and 
 
 Most of my work sits at the intersection of business process and technical implementation: understanding how a support process actually runs end to end, then building the automation that enforces it consistently and removes the manual effort.
 
-Based in Greater Boston, MA &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/your-handle) &nbsp;|&nbsp; Justin.Ghetti@gmail.com
+Based in Greater Boston, MA &nbsp;|&nbsp; [LinkedIn]([https://www.linkedin.com/in/justin-ghetti-015bb516/)) &nbsp;|&nbsp; Justin.Ghetti@gmail.com
 
 ---
 
