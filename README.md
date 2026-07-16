@@ -38,4 +38,4 @@ End-to-end pipeline that replaced a fully manual weekly license-activation proce
 
 ---
 
-*More projects coming soon, including a license-migration plan generator (Streamlit) and an automated reporting-requirements engine.*
+
